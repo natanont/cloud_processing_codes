@@ -1,4 +1,4 @@
-# Cloud processing codes for Data platfrom
+# Cloud processing codes for Data platform
 ---
 
 This repository contains the codes for:
